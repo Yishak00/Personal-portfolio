@@ -1,0 +1,38 @@
+/* main.css */
+
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9; /* Light background for contrast */
+    color: #333; /* Standard text color */
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  /* Links */
+  a {
+    color: #007acc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #005fa3;
+  }
+  
+  /* Section Styling */
+  section {
+    padding: 50px 0;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
